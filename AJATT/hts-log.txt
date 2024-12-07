@@ -1,0 +1,216 @@
+HTTrack3.48-21+htsswf+htsjava launched on Wed, 08 Jul 2015 14:37:31 at http://www.alljapaneseallthetime.com/blog/all-japanese-all-the-time-ajatt-how-to-learn-japanese-on-your-own-having-fun-and-to-fluency +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "ja, en, *" http://www.alljapaneseallthetime.com/blog/all-japanese-all-the-time-ajatt-how-to-learn-japanese-on-your-own-having-fun-and-to-fluency -O1 "C:\Users\Matt\Desktop\AJTT\AJATT" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:41:05	Error: 	"Forbidden" (403) at link www.alljapaneseallthetime.com/blog/xmlrpc.php (from www.alljapaneseallthetime.com/blog/all-japanese-all-the-time-ajatt-how-to-learn-japanese-on-your-own-having-fun-and-to-fluency)
+14:41:08	Error: 	"Forbidden" (403) at link www.alljapaneseallthetime.com/blog/xmlrpc.php?rsd (from www.alljapaneseallthetime.com/blog/all-japanese-all-the-time-ajatt-how-to-learn-japanese-on-your-own-having-fun-and-to-fluency)
+14:42:41	Warning: 	Found for www.alljapaneseallthetime.com/blog/?random
+14:42:41	Warning: 	File has moved from www.alljapaneseallthetime.com/blog/?random to http://www.alljapaneseallthetime.com/blog/ajatt-twitter-tweets-for-week-of-2011-01-16
+15:05:33	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/the-eternal-sorrow-of-the-intermediate-learner-“are-we-there-yet”-syndrome/feed: No such file or directory
+15:05:33	Warning: 	file not stored in cache due to bogus state (broken size, expected 5756 got 0): www.alljapaneseallthetime.com/blog/the-eternal-sorrow-of-the-intermediate-learner-“are-we-there-yet”-syndrome/feed
+15:30:28	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/compromise-maintaining-your-immersion-environment-without-completely-alienating-your-fellows…or-yourself/feed: No such file or directory
+15:30:28	Warning: 	file not stored in cache due to bogus state (broken size, expected 9962 got 0): www.alljapaneseallthetime.com/blog/compromise-maintaining-your-immersion-environment-without-completely-alienating-your-fellows…or-yourself/feed
+16:00:03	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/secrets-to-smoother-srsing-part-3-don’t-go-looking-for-items-let-them-come-find-you/feed: No such file or directory
+16:00:03	Warning: 	file not stored in cache due to bogus state (broken size, expected 9104 got 0): www.alljapaneseallthetime.com/blog/secrets-to-smoother-srsing-part-3-don’t-go-looking-for-items-let-them-come-find-you/feed
+16:39:49	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/www.alljapaneseallthetime.com/blog/data/mcdrevminilogo.png (from www.alljapaneseallthetime.com/blog/store)
+16:40:37	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/pre-order-my-first-japanese-storybook-today-and-save (from www.alljapaneseallthetime.com/blog/store)
+16:41:35	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/ajatt-silverspoon-bigboi-post-rtk-sign-up-d (from www.alljapaneseallthetime.com/blog/store)
+16:41:45	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/sinospoon-silverspoon-mandarin-sign-up-d (from www.alljapaneseallthetime.com/blog/store)
+16:41:56	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/join-ajatt-silverspoon-vanilla (from www.alljapaneseallthetime.com/blog/store)
+16:41:56	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/join-silverspoon-bigboi-post-rtk1 (from www.alljapaneseallthetime.com/blog/store)
+16:41:56	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/join-sinospoon-silverspoon-mandarin (from www.alljapaneseallthetime.com/blog/store)
+16:41:56	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/pre-launch-50-percent-discount-join-cantospoon-silverspoon-cantonese (from www.alljapaneseallthetime.com/blog/store)
+17:15:35	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/read-more-or-die-readmod多読-a-foreign-language-extensive-reading-contest-2014-edition/feed: No such file or directory
+17:15:35	Warning: 	file not stored in cache due to bogus state (broken size, expected 1373 got 0): www.alljapaneseallthetime.com/blog/read-more-or-die-readmod多読-a-foreign-language-extensive-reading-contest-2014-edition/feed
+17:15:45	Error: 	"Not Found" (404) at link koti.kapsi.fi/jmaatta/langforum/AA2007b.png (from www.alljapaneseallthetime.com/blog/the-african-way-of-learning-just-do-it)
+17:16:33	Warning: 	Moved Permanently for www.alljapaneseallthetime.com/blog/comments/feed/
+17:16:33	Warning: 	File has moved from www.alljapaneseallthetime.com/blog/comments/feed/ to http://www.alljapaneseallthetime.com/blog/comments/feed
+17:16:51	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/freedom-to-hate-→-freedom-to-become-great/feed: No such file or directory
+17:16:51	Warning: 	file not stored in cache due to bogus state (broken size, expected 4657 got 0): www.alljapaneseallthetime.com/blog/freedom-to-hate-→-freedom-to-become-great/feed
+17:18:23	Error: 	"Forbidden" (403) at link www.learn-japanese.info/practiceltblue.gif (from www.alljapaneseallthetime.com/blog/propaganda)
+17:18:57	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/dick-and-jane-episode-10 (from www.alljapaneseallthetime.com/blog/no-fun-no-good)
+17:27:13	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/what’s-the-deal-with-personal-development-anyway-part-1-my-story/feed: No such file or directory
+17:27:13	Warning: 	file not stored in cache due to bogus state (broken size, expected 6466 got 0): www.alljapaneseallthetime.com/blog/what’s-the-deal-with-personal-development-anyway-part-1-my-story/feed
+17:27:42	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/tag/加dd-新ew-札ag/feed: No such file or directory
+17:27:42	Warning: 	file not stored in cache due to bogus state (broken size, expected 11332 got 0): www.alljapaneseallthetime.com/blog/tag/加dd-新ew-札ag/feed
+17:28:56	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/old-ss-bb-signup (from www.alljapaneseallthetime.com/blog/are-you-a-three-day-monk)
+17:29:15	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/how-to-read-out-the-things-that-aren’t-written-in-japanese-military-style-numerals/feed: No such file or directory
+17:29:15	Warning: 	file not stored in cache due to bogus state (broken size, expected 11753 got 0): www.alljapaneseallthetime.com/blog/how-to-read-out-the-things-that-aren’t-written-in-japanese-military-style-numerals/feed
+17:29:57	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/silverspoon-7-0-neutrino-the-legal-addiction-that-people-will-praise-you-for (from www.alljapaneseallthetime.com/blog/the-language-learners-prayer)
+17:30:01	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 5756 expected)) at link www.alljapaneseallthetime.com/blog/the-eternal-sorrow-of-the-intermediate-learner-“are-we-there-yet”-syndrome/feed (from www.alljapaneseallthetime.com/blog/the-eternal-sorrow-of-the-intermediate-learner-“are-we-there-yet”-syndrome)
+17:32:57	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/dick-and-jane-episode-12 (from www.alljapaneseallthetime.com/blog/practice-dont-beat-yourself-up)
+17:33:24	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/日本のテレビが変/feed: No such file or directory
+17:33:24	Warning: 	file not stored in cache due to bogus state (broken size, expected 2833 got 0): www.alljapaneseallthetime.com/blog/日本のテレビが変/feed
+17:33:34	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/why-i’m-in-love-with-my-japanese-japanese-dictionary/feed: No such file or directory
+17:33:34	Warning: 	file not stored in cache due to bogus state (broken size, expected 7592 got 0): www.alljapaneseallthetime.com/blog/why-i’m-in-love-with-my-japanese-japanese-dictionary/feed
+17:38:24	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/too-much-technique-too-little-volume-それ以前の問題/feed: No such file or directory
+17:38:24	Warning: 	file not stored in cache due to bogus state (broken size, expected 4570 got 0): www.alljapaneseallthetime.com/blog/too-much-technique-too-little-volume-それ以前の問題/feed
+17:43:52	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/racism-in-japan-人種差別大國日本？/feed: No such file or directory
+17:43:52	Warning: 	file not stored in cache due to bogus state (broken size, expected 11492 got 0): www.alljapaneseallthetime.com/blog/racism-in-japan-人種差別大國日本？/feed
+17:44:33	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/unclean-why-would-ajatt-do-a-tie-in-with-other-people’s-stuff/feed: No such file or directory
+17:44:33	Warning: 	file not stored in cache due to bogus state (broken size, expected 2615 got 0): www.alljapaneseallthetime.com/blog/unclean-why-would-ajatt-do-a-tie-in-with-other-people’s-stuff/feed
+17:50:45	Warning: 	Moved Permanently for www.alljapaneseallthetime.com/blog/about/overview-page/
+17:50:45	Warning: 	File has moved from www.alljapaneseallthetime.com/blog/about/overview-page/ to http://www.alljapaneseallthetime.com/blog/about/overview-page
+17:51:44	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 9962 expected)) at link www.alljapaneseallthetime.com/blog/compromise-maintaining-your-immersion-environment-without-completely-alienating-your-fellows…or-yourself/feed (from www.alljapaneseallthetime.com/blog/compromise-maintaining-your-immersion-environment-without-completely-alienating-your-fellows…or-yourself)
+17:53:10	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/ジブリ、嫌い/feed: No such file or directory
+17:53:10	Warning: 	file not stored in cache due to bogus state (broken size, expected 6203 got 0): www.alljapaneseallthetime.com/blog/ジブリ、嫌い/feed
+17:53:50	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/book-recommendation-怨み屋本舗-uramiya-honpo/feed: No such file or directory
+17:53:50	Warning: 	file not stored in cache due to bogus state (broken size, expected 3351 got 0): www.alljapaneseallthetime.com/blog/book-recommendation-怨み屋本舗-uramiya-honpo/feed
+17:54:00	Error: 	"Not Found" (404) at link www.littlefolkspuzzle.com/catalog/1350-30PCFLOORPUZZLE-KITTEN.JPG (from www.alljapaneseallthetime.com/blog/you-dont-have-a-foreign-language-problem-you-have-an-adult-literacy-problem)
+18:08:05	Warning: 	Moved Permanently for www.alljapaneseallthetime.com/blog/category/momokos-musings/
+18:08:05	Warning: 	File has moved from www.alljapaneseallthetime.com/blog/category/momokos-musings/ to http://www.alljapaneseallthetime.com/blog/category/momokos-musings
+18:08:05	Warning: 	Moved Permanently for www.alljapaneseallthetime.com/blog/category/sentences/
+18:08:05	Warning: 	File has moved from www.alljapaneseallthetime.com/blog/category/sentences/ to http://www.alljapaneseallthetime.com/blog/category/sentences
+18:08:06	Warning: 	Moved Permanently for www.alljapaneseallthetime.com/blog/category/dick-and-jane/
+18:08:06	Warning: 	File has moved from www.alljapaneseallthetime.com/blog/category/dick-and-jane/ to http://www.alljapaneseallthetime.com/blog/category/dick-and-jane
+18:08:08	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/勝元s日本語初ビデオだよコノヤロー／khatzumoto-japanese-video-debut/feed: No such file or directory
+18:08:08	Warning: 	file not stored in cache due to bogus state (broken size, expected 5190 got 0): www.alljapaneseallthetime.com/blog/勝元s日本語初ビデオだよコノヤロー／khatzumoto-japanese-video-debut/feed
+18:09:17	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/further-reading-on-どんだけ/feed: No such file or directory
+18:09:17	Warning: 	file not stored in cache due to bogus state (broken size, expected 944 got 0): www.alljapaneseallthetime.com/blog/further-reading-on-どんだけ/feed
+18:09:43	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/category/khatzumemo/ (from www.alljapaneseallthetime.com/blog/10000-sentences-how)
+18:10:40	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/ブラじゃない！大胸筋矯正サポーターなんだよ！/feed: No such file or directory
+18:10:40	Warning: 	file not stored in cache due to bogus state (broken size, expected 5182 got 0): www.alljapaneseallthetime.com/blog/ブラじゃない！大胸筋矯正サポーターなんだよ！/feed
+18:12:15	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/日本語上等podcast-episode-2/feed: No such file or directory
+18:12:15	Warning: 	file not stored in cache due to bogus state (broken size, expected 4341 got 0): www.alljapaneseallthetime.com/blog/日本語上等podcast-episode-2/feed
+18:12:36	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/日本語上等pod…cast-episode-2-script-manga/feed: No such file or directory
+18:12:36	Warning: 	file not stored in cache due to bogus state (broken size, expected 2277 got 0): www.alljapaneseallthetime.com/blog/日本語上等pod…cast-episode-2-script-manga/feed
+18:14:12	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 9104 expected)) at link www.alljapaneseallthetime.com/blog/secrets-to-smoother-srsing-part-3-don’t-go-looking-for-items-let-them-come-find-you/feed (from www.alljapaneseallthetime.com/blog/secrets-to-smoother-srsing-part-3-don’t-go-looking-for-items-let-them-come-find-you)
+18:17:17	Error: 	"Not Found" (404) at link bighugelabs.com/flickr/output/motivatora884a0c715b1ba9db3b48f06b918e817d45cf0c3.jpg (from www.alljapaneseallthetime.com/blog/secrets-to-smoother-srsing-part-7-the-place-of-pre-mined-srsing-and-other-ramblings)
+18:20:40	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/learning-like-a-native-どんだけ～/feed: No such file or directory
+18:20:40	Warning: 	file not stored in cache due to bogus state (broken size, expected 3937 got 0): www.alljapaneseallthetime.com/blog/learning-like-a-native-どんだけ～/feed
+18:22:24	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/if-youre-ever-stuck-between-two-languages-pick-the-less-「useful」-one/feed: No such file or directory
+18:22:24	Warning: 	file not stored in cache due to bogus state (broken size, expected 5667 got 0): www.alljapaneseallthetime.com/blog/if-youre-ever-stuck-between-two-languages-pick-the-less-「useful」-one/feed
+18:23:08	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/世界読書コンクール／international-l2-reading-contest/feed: No such file or directory
+18:23:08	Warning: 	file not stored in cache due to bogus state (broken size, expected 4575 got 0): www.alljapaneseallthetime.com/blog/世界読書コンクール／international-l2-reading-contest/feed
+18:25:21	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/陳冠希万歳！/feed: No such file or directory
+18:25:21	Warning: 	file not stored in cache due to bogus state (broken size, expected 1308 got 0): www.alljapaneseallthetime.com/blog/陳冠希万歳！/feed
+18:25:51	Error: 	"Not Found" (404) at link img296.imageshack.us/img296/7613/54849254nf8.png (from www.alljapaneseallthetime.com/blog/understanding-the-news-james-success-story)
+18:26:01	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/お巫山戯、日本語で-halloween-spectacular-zombie-vs-3-chibi-chans/feed: No such file or directory
+18:26:01	Warning: 	file not stored in cache due to bogus state (broken size, expected 2540 got 0): www.alljapaneseallthetime.com/blog/お巫山戯、日本語で-halloween-spectacular-zombie-vs-3-chibi-chans/feed
+18:32:40	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/wp-admin/Podcasts: Simulate Real Japanese Friends (from www.alljapaneseallthetime.com/blog/podcasts-simulate-real-japanese-friends)
+18:35:50	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/漢字、彼是/feed: No such file or directory
+18:35:50	Warning: 	file not stored in cache due to bogus state (broken size, expected 1751 got 0): www.alljapaneseallthetime.com/blog/漢字、彼是/feed
+18:35:55	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/言葉の戦争勃発！亜米利加で人気の日本アニメ/feed: No such file or directory
+18:35:55	Warning: 	file not stored in cache due to bogus state (broken size, expected 1588 got 0): www.alljapaneseallthetime.com/blog/言葉の戦争勃発！亜米利加で人気の日本アニメ/feed
+18:38:04	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/preorder-qrg-the-movie-today-and-save (from www.alljapaneseallthetime.com/blog/qrg-version-10-is-here)
+18:38:04	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/lard-the-little-red-dao-of-ajatt-yours-is-here (from www.alljapaneseallthetime.com/blog/qrg-version-10-is-here)
+18:46:07	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from s.gravatar.com/js/gprofiles.js?ver=2015Julaa)
+18:46:07	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/g.gif (from stats.wp.com/e-201528.js)
+18:46:07	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/c.gif (from stats.wp.com/e-201528.js)
+18:48:32	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/【歌詞】shakka-zombie-ハサミウチ/feed: No such file or directory
+18:48:32	Warning: 	file not stored in cache due to bogus state (broken size, expected 668 got 0): www.alljapaneseallthetime.com/blog/【歌詞】shakka-zombie-ハサミウチ/feed
+18:48:37	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/free-upgrade-to-my-first-sentence-pack-mfsp-20122013-edition (from www.alljapaneseallthetime.com/blog/my-first-sentence-pack-is-here-huzzah)
+18:50:42	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/decremental-timebox-→-real-time-conversion-table/feed: No such file or directory
+18:50:42	Warning: 	file not stored in cache due to bogus state (broken size, expected 1236 got 0): www.alljapaneseallthetime.com/blog/decremental-timebox-→-real-time-conversion-table/feed
+18:57:43	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/dick-and-jane-episode-1 (from www.alljapaneseallthetime.com/blog/dick-and-jane)
+18:57:43	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/dick-and-jane-episode-2 (from www.alljapaneseallthetime.com/blog/dick-and-jane)
+18:57:43	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/dick-and-jane-episode-3 (from www.alljapaneseallthetime.com/blog/dick-and-jane)
+18:57:43	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/dick-and-jane-episode-4 (from www.alljapaneseallthetime.com/blog/dick-and-jane)
+18:57:43	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/dick-and-jane-episode-5 (from www.alljapaneseallthetime.com/blog/dick-and-jane)
+18:57:43	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/dick-and-jane-episode-6 (from www.alljapaneseallthetime.com/blog/dick-and-jane)
+18:57:43	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/dick-and-jane-episode-7 (from www.alljapaneseallthetime.com/blog/dick-and-jane)
+18:57:43	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/dick-and-jane-episode-8 (from www.alljapaneseallthetime.com/blog/dick-and-jane)
+18:57:43	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/dick-and-jane-episode-9 (from www.alljapaneseallthetime.com/blog/dick-and-jane)
+18:57:43	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/dick-and-jane-episode-11 (from www.alljapaneseallthetime.com/blog/dick-and-jane)
+18:59:32	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/白人ってサァ・・・どんだけぇ？/feed: No such file or directory
+18:59:32	Warning: 	file not stored in cache due to bogus state (broken size, expected 2806 got 0): www.alljapaneseallthetime.com/blog/白人ってサァ・・・どんだけぇ？/feed
+19:00:03	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/www.urbandictionary.com/define.php?term=FML&defid=4056455 (from www.alljapaneseallthetime.com/blog/dont-think-of-it-as-a-new-year-think-of-it-as-a-new-day)
+19:00:11	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/軽病で執筆休止だよゴルァ！／khatzumoto-sick/feed: No such file or directory
+19:00:11	Warning: 	file not stored in cache due to bogus state (broken size, expected 6222 got 0): www.alljapaneseallthetime.com/blog/軽病で執筆休止だよゴルァ！／khatzumoto-sick/feed
+19:02:56	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/read-more-or-die-readmod多読-a-foreign-language-extensive-reading-contest-2013-edition/feed: No such file or directory
+19:02:56	Warning: 	file not stored in cache due to bogus state (broken size, expected 6399 got 0): www.alljapaneseallthetime.com/blog/read-more-or-die-readmod多読-a-foreign-language-extensive-reading-contest-2013-edition/feed
+19:11:32	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/pre-launch-silverspoon-bigboi-the-silverspoon-for-post-rtkers (from www.alljapaneseallthetime.com/blog/you-will-be-fluent-in-japanese-595-days-from-now-let-me-take-you-there)
+19:13:38	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/cantospoon-silverspoon-for-cantonese-because-this-is-what-bruce-lee-would-have-wanted (from www.alljapaneseallthetime.com/blog/so-should-we-track-and-log-every-second-of-japanese)
+19:14:45	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/進むテレビの低俗化/feed: No such file or directory
+19:14:45	Warning: 	file not stored in cache due to bogus state (broken size, expected 3454 got 0): www.alljapaneseallthetime.com/blog/進むテレビの低俗化/feed
+19:14:54	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 1373 expected)) at link www.alljapaneseallthetime.com/blog/read-more-or-die-readmod多読-a-foreign-language-extensive-reading-contest-2014-edition/feed (from www.alljapaneseallthetime.com/blog/read-more-or-die-readmod多読-a-foreign-language-extensive-reading-contest-2014-edition)
+19:15:49	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 4657 expected)) at link www.alljapaneseallthetime.com/blog/freedom-to-hate-→-freedom-to-become-great/feed (from www.alljapaneseallthetime.com/blog/freedom-to-hate-→-freedom-to-become-great)
+19:17:40	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/implicateevolution.com (from www.alljapaneseallthetime.com/blog/zero-certainty)
+19:18:00	Error: 	"Not Found" (404) at link rcm-images.amazon.com/images/I/11TC6HXKG5L._SL100_SCTZZZZZZZ_.jpg (from www.alljapaneseallthetime.com/blog/book-review-understanding-basic-japanese-grammar)
+19:20:06	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 6466 expected)) at link www.alljapaneseallthetime.com/blog/what’s-the-deal-with-personal-development-anyway-part-1-my-story/feed (from www.alljapaneseallthetime.com/blog/what’s-the-deal-with-personal-development-anyway-part-1-my-story)
+19:20:11	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 11332 expected)) at link www.alljapaneseallthetime.com/blog/tag/加dd-新ew-札ag/feed (from www.alljapaneseallthetime.com/blog/tag/加dd-新ew-札ag)
+19:20:18	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 11753 expected)) at link www.alljapaneseallthetime.com/blog/how-to-read-out-the-things-that-aren’t-written-in-japanese-military-style-numerals/feed (from www.alljapaneseallthetime.com/blog/how-to-read-out-the-things-that-aren’t-written-in-japanese-military-style-numerals)
+19:21:22	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 2833 expected)) at link www.alljapaneseallthetime.com/blog/日本のテレビが変/feed (from www.alljapaneseallthetime.com/blog/日本のテレビが変)
+19:21:23	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/【日本語での文章を上手くする方法】/feed: No such file or directory
+19:21:23	Warning: 	file not stored in cache due to bogus state (broken size, expected 3612 got 0): www.alljapaneseallthetime.com/blog/【日本語での文章を上手くする方法】/feed
+19:21:59	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 7592 expected)) at link www.alljapaneseallthetime.com/blog/why-i’m-in-love-with-my-japanese-japanese-dictionary/feed (from www.alljapaneseallthetime.com/blog/why-i’m-in-love-with-my-japanese-japanese-dictionary)
+19:22:43	Error: 	"Not Found" (404) at link img244.imageshack.us/img244/6617/colorsej2.png (from www.alljapaneseallthetime.com/blog/accept-no-subsitutes)
+19:22:52	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/zh.wikipedia.org/zh-tw/邓小平 (from www.alljapaneseallthetime.com/blog/dont-improve-yourself-stop-trying-to-become-a-better-person)
+19:22:52	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 4570 expected)) at link www.alljapaneseallthetime.com/blog/too-much-technique-too-little-volume-それ以前の問題/feed (from www.alljapaneseallthetime.com/blog/too-much-technique-too-little-volume-それ以前の問題)
+19:23:13	Error: 	"Not Found" (404) at link www.crossfitoakland.com/old_site/marathoner_sprinter2.jpg (from www.alljapaneseallthetime.com/blog/after-the-binge-must-come-the-purge)
+19:23:15	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/アホッか、問題は辞書なんかじゃないぞ/feed: No such file or directory
+19:23:15	Warning: 	file not stored in cache due to bogus state (broken size, expected 1900 got 0): www.alljapaneseallthetime.com/blog/アホッか、問題は辞書なんかじゃないぞ/feed
+19:24:07	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 11492 expected)) at link www.alljapaneseallthetime.com/blog/racism-in-japan-人種差別大國日本？/feed (from www.alljapaneseallthetime.com/blog/racism-in-japan-人種差別大國日本？)
+19:24:10	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 2615 expected)) at link www.alljapaneseallthetime.com/blog/unclean-why-would-ajatt-do-a-tie-in-with-other-people’s-stuff/feed (from www.alljapaneseallthetime.com/blog/unclean-why-would-ajatt-do-a-tie-in-with-other-people’s-stuff)
+19:28:38	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 6203 expected)) at link www.alljapaneseallthetime.com/blog/ジブリ、嫌い/feed (from www.alljapaneseallthetime.com/blog/ジブリ、嫌い)
+19:28:41	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 3351 expected)) at link www.alljapaneseallthetime.com/blog/book-recommendation-怨み屋本舗-uramiya-honpo/feed (from www.alljapaneseallthetime.com/blog/book-recommendation-怨み屋本舗-uramiya-honpo)
+19:30:31	Error: 	"Not Found" (404) at link https://dl.dropboxusercontent.com/u/8938380/drackmethod.png (from www.alljapaneseallthetime.com/blog/the-lazy-kanji-kendo-mod)
+19:31:46	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 5190 expected)) at link www.alljapaneseallthetime.com/blog/勝元s日本語初ビデオだよコノヤロー／khatzumoto-japanese-video-debut/feed (from www.alljapaneseallthetime.com/blog/勝元s日本語初ビデオだよコノヤロー／khatzumoto-japanese-video-debut)
+19:31:53	Warning: 	Retry after error -4 (No data (connection closed)) at link www.alljapaneseallthetime.com/blog/updated-and-fixed-surusu-add-card-bookmarklet (from www.alljapaneseallthetime.com/blog/khatzumemo-back-in-action)
+19:31:55	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 944 expected)) at link www.alljapaneseallthetime.com/blog/further-reading-on-どんだけ/feed (from www.alljapaneseallthetime.com/blog/further-reading-on-どんだけ)
+19:31:58	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 5182 expected)) at link www.alljapaneseallthetime.com/blog/ブラじゃない！大胸筋矯正サポーターなんだよ！/feed (from www.alljapaneseallthetime.com/blog/ブラじゃない！大胸筋矯正サポーターなんだよ！)
+19:32:00	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/how-should-dick-and-jane-work (from www.alljapaneseallthetime.com/blog/10000-sentences-music)
+19:32:21	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 4341 expected)) at link www.alljapaneseallthetime.com/blog/日本語上等podcast-episode-2/feed (from www.alljapaneseallthetime.com/blog/日本語上等podcast-episode-2)
+19:32:21	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/日本語上等pod…cast-episode-3/feed: No such file or directory
+19:32:21	Warning: 	file not stored in cache due to bogus state (broken size, expected 3330 got 0): www.alljapaneseallthetime.com/blog/日本語上等pod…cast-episode-3/feed
+19:32:33	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 2277 expected)) at link www.alljapaneseallthetime.com/blog/日本語上等pod…cast-episode-2-script-manga/feed (from www.alljapaneseallthetime.com/blog/日本語上等pod…cast-episode-2-script-manga)
+19:32:34	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/最近「マンガ　金正日/feed: No such file or directory
+19:32:34	Warning: 	file not stored in cache due to bogus state (broken size, expected 669 got 0): www.alljapaneseallthetime.com/blog/最近「マンガ　金正日/feed
+19:32:39	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/最大１４０文字以内に/feed: No such file or directory
+19:32:39	Warning: 	file not stored in cache due to bogus state (broken size, expected 671 got 0): www.alljapaneseallthetime.com/blog/最大１４０文字以内に/feed
+19:32:46	Error: 	"Not Found" (404) at link ec2.images-amazon.com/images/I/51lHkH7QbXL._SS500_.jpg (from www.alljapaneseallthetime.com/blog/kbl-khatzumotos-book-list-august-2008)
+19:33:57	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/e382a2e3839be38383e3818be38081e5958fe9a18ce381afe8be9ee69bb8e381aae38293e3818be38198e38283e381aae38184e3819e (from www.alljapaneseallthetime.com/blog/its-not-the-dictionary-stupid)
+19:34:03	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 3937 expected)) at link www.alljapaneseallthetime.com/blog/learning-like-a-native-どんだけ～/feed (from www.alljapaneseallthetime.com/blog/learning-like-a-native-どんだけ～)
+19:34:17	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 5667 expected)) at link www.alljapaneseallthetime.com/blog/if-youre-ever-stuck-between-two-languages-pick-the-less-「useful」-one/feed (from www.alljapaneseallthetime.com/blog/if-youre-ever-stuck-between-two-languages-pick-the-less-「useful」-one)
+19:34:30	Error: 	"Forbidden" (403) at link neb.frikafrax.com/wp-content/uploads/japan_tshirt_hemorrhoids.jpg (from www.alljapaneseallthetime.com/blog/in-defense-of-kanji-tattoo-typos)
+19:34:30	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 4575 expected)) at link www.alljapaneseallthetime.com/blog/世界読書コンクール／international-l2-reading-contest/feed (from www.alljapaneseallthetime.com/blog/世界読書コンクール／international-l2-reading-contest)
+19:35:11	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 1308 expected)) at link www.alljapaneseallthetime.com/blog/陳冠希万歳！/feed (from www.alljapaneseallthetime.com/blog/陳冠希万歳！)
+19:35:13	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 2540 expected)) at link www.alljapaneseallthetime.com/blog/お巫山戯、日本語で-halloween-spectacular-zombie-vs-3-chibi-chans/feed (from www.alljapaneseallthetime.com/blog/お巫山戯、日本語で-halloween-spectacular-zombie-vs-3-chibi-chans)
+19:35:27	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/author/admin (from www.alljapaneseallthetime.com/blog/ghost-in-the-shell-japanese-dialog-transcript)
+19:37:37	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 1751 expected)) at link www.alljapaneseallthetime.com/blog/漢字、彼是/feed (from www.alljapaneseallthetime.com/blog/漢字、彼是)
+19:37:37	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 1588 expected)) at link www.alljapaneseallthetime.com/blog/言葉の戦争勃発！亜米利加で人気の日本アニメ/feed (from www.alljapaneseallthetime.com/blog/言葉の戦争勃発！亜米利加で人気の日本アニメ)
+19:38:33	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/ditch-your-resolution-it’s-time-for-a-language-mission/feed: No such file or directory
+19:38:33	Warning: 	file not stored in cache due to bogus state (broken size, expected 2424 got 0): www.alljapaneseallthetime.com/blog/ditch-your-resolution-it’s-time-for-a-language-mission/feed
+19:39:13	Error: 	"Error when decompressing" (-1) at link www.alljapaneseallthetime.com/blog/author (from www.alljapaneseallthetime.com/blog/ajatt-twitter-tweets-for-week-of-2011-11-06)
+19:39:48	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 668 expected)) at link www.alljapaneseallthetime.com/blog/【歌詞】shakka-zombie-ハサミウチ/feed (from www.alljapaneseallthetime.com/blog/【歌詞】shakka-zombie-ハサミウチ)
+19:40:34	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 1236 expected)) at link www.alljapaneseallthetime.com/blog/decremental-timebox-→-real-time-conversion-table/feed (from www.alljapaneseallthetime.com/blog/decremental-timebox-→-real-time-conversion-table)
+19:41:46	Warning: 	Found for www.alljapaneseallthetime.com/blog/www.alljapaneseallthetime.com/blog/?random
+19:41:46	Warning: 	File has moved from www.alljapaneseallthetime.com/blog/www.alljapaneseallthetime.com/blog/?random to http://www.alljapaneseallthetime.com/blog/cantonese-mini-transcript-you-come-in-here-hit-hit-kill-kill
+19:42:17	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 2806 expected)) at link www.alljapaneseallthetime.com/blog/白人ってサァ・・・どんだけぇ？/feed (from www.alljapaneseallthetime.com/blog/白人ってサァ・・・どんだけぇ？)
+19:42:18	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 6222 expected)) at link www.alljapaneseallthetime.com/blog/軽病で執筆休止だよゴルァ！／khatzumoto-sick/feed (from www.alljapaneseallthetime.com/blog/軽病で執筆休止だよゴルァ！／khatzumoto-sick)
+19:42:34	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 6399 expected)) at link www.alljapaneseallthetime.com/blog/read-more-or-die-readmod多読-a-foreign-language-extensive-reading-contest-2013-edition/feed (from www.alljapaneseallthetime.com/blog/read-more-or-die-readmod多読-a-foreign-language-extensive-reading-contest-2013-edition)
+19:45:57	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 3454 expected)) at link www.alljapaneseallthetime.com/blog/進むテレビの低俗化/feed (from www.alljapaneseallthetime.com/blog/進むテレビの低俗化)
+19:46:12	Warning: 	Retry after error -4 (No data (connection closed)) at link www.alljapaneseallthetime.com/blog/ajatt-twitter-tweets-for-week-of-2011-08-14/feed (from www.alljapaneseallthetime.com/blog/ajatt-twitter-tweets-for-week-of-2011-08-14)
+19:47:03	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 3612 expected)) at link www.alljapaneseallthetime.com/blog/【日本語での文章を上手くする方法】/feed (from www.alljapaneseallthetime.com/blog/【日本語での文章を上手くする方法】)
+19:47:03	Error: 	"Not Found" (404) at link rcm-images.amazon.com/images/I/11JG7VB5Q1L._SL100_SCTZZZZZZZ_.jpg (from www.alljapaneseallthetime.com/blog/【日本語での文章を上手くする方法】)
+19:47:41	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 1900 expected)) at link www.alljapaneseallthetime.com/blog/アホッか、問題は辞書なんかじゃないぞ/feed (from www.alljapaneseallthetime.com/blog/アホッか、問題は辞書なんかじゃないぞ)
+19:47:42	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/goodbye-khatzumemo-hello-surusu-the-spaced-repetition-制ystem/feed: No such file or directory
+19:47:42	Warning: 	file not stored in cache due to bogus state (broken size, expected 2256 got 0): www.alljapaneseallthetime.com/blog/goodbye-khatzumemo-hello-surusu-the-spaced-repetition-制ystem/feed
+19:48:54	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/updated-and-fixed-surusu-add-card-bookmarklet: Permission denied
+19:48:56	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 3330 expected)) at link www.alljapaneseallthetime.com/blog/日本語上等pod…cast-episode-3/feed (from www.alljapaneseallthetime.com/blog/日本語上等pod…cast-episode-3)
+19:48:57	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 669 expected)) at link www.alljapaneseallthetime.com/blog/最近「マンガ　金正日/feed (from www.alljapaneseallthetime.com/blog/最近「マンガ　金正日)
+19:48:58	Error: 	Unable to save file C:/Users/Matt/Desktop/AJTT/AJATT/www.alljapaneseallthetime.com/blog/再投稿！（今回は大丈/feed: No such file or directory
+19:48:58	Warning: 	file not stored in cache due to bogus state (broken size, expected 675 got 0): www.alljapaneseallthetime.com/blog/再投稿！（今回は大丈/feed
+19:48:58	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 671 expected)) at link www.alljapaneseallthetime.com/blog/最大１４０文字以内に/feed (from www.alljapaneseallthetime.com/blog/最大１４０文字以内に)
+19:49:23	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/www.guidetojapanese.org/verbs.html (from www.alljapaneseallthetime.com/blog/the-verb-the-beginning-and-the-end-of-a-sentence)
+19:50:22	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/zh.wikipedia.org/zh-tw/黑暗騎士：黎明昇起 (from www.alljapaneseallthetime.com/blog/mandarin-mini-transcript-memorable-quotes-from-batman-the-dark-knight-rises)
+19:50:35	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 2424 expected)) at link www.alljapaneseallthetime.com/blog/ditch-your-resolution-it’s-time-for-a-language-mission/feed (from www.alljapaneseallthetime.com/blog/ditch-your-resolution-it’s-time-for-a-language-mission)
+19:51:29	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 2256 expected)) at link www.alljapaneseallthetime.com/blog/goodbye-khatzumemo-hello-surusu-the-spaced-repetition-制ystem/feed (from www.alljapaneseallthetime.com/blog/goodbye-khatzumemo-hello-surusu-the-spaced-repetition-制ystem)
+19:51:36	Error: 	"Not Found" (404) at link www.alljapaneseallthetime.com/blog/encodeURIComponent(d.location.href);var (from www.alljapaneseallthetime.com/blog/updated-and-fixed-surusu-add-card-bookmarklet)
+19:51:36	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 675 expected)) at link www.alljapaneseallthetime.com/blog/再投稿！（今回は大丈/feed (from www.alljapaneseallthetime.com/blog/再投稿！（今回は大丈)
+19:51:40	Warning: 	Retry after error -5 (Unable to get server's address: �v���������O�͗L���ł����A�v�����ꂽ��ނ̃f�[�^) at link pixelsfromtheedge.com/wp-content/uploads/2011/01/japan-no-further-description-required.jpg (from www.alljapaneseallthetime.com/blog/top-10-great-japanese-movies-19982008)
+19:52:07	Error: 	"Not Found" (404) at link www.fourhourworkweek.com/blog/wp-content/uploads/2009/12/ftc_food_250.jpg (from www.alljapaneseallthetime.com/blog/ftc-disclosure)
+19:52:07	Error: 	"Not Found" (404) at link www.fourhourworkweek.com/blog/wp-content/uploads/2009/12/ftc_gadgets_250.jpg (from www.alljapaneseallthetime.com/blog/ftc-disclosure)
+19:52:07	Error: 	"Not Found" (404) at link www.fourhourworkweek.com/blog/wp-content/uploads/2009/12/ftc_gotbusy_250.jpg (from www.alljapaneseallthetime.com/blog/ftc-disclosure)
+19:52:07	Error: 	"Not Found" (404) at link www.fourhourworkweek.com/blog/wp-content/uploads/2009/12/ftc_money_250.jpg (from www.alljapaneseallthetime.com/blog/ftc-disclosure)
+19:52:07	Error: 	"Not Found" (404) at link www.fourhourworkweek.com/blog/wp-content/uploads/2009/12/ftc_schwag_250.jpg (from www.alljapaneseallthetime.com/blog/ftc-disclosure)
+19:52:07	Error: 	"Not Found" (404) at link www.fourhourworkweek.com/blog/wp-content/uploads/2009/12/ftc_stocks_250.jpg (from www.alljapaneseallthetime.com/blog/ftc-disclosure)
+19:52:09	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link pixelsfromtheedge.com/wp-content/uploads/2011/01/japan-no-further-description-required.jpg (from www.alljapaneseallthetime.com/blog/top-10-great-japanese-movies-19982008)
+19:52:29	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link pixelsfromtheedge.com/wp-content/uploads/2011/01/japan-no-further-description-required.jpg (from www.alljapaneseallthetime.com/blog/top-10-great-japanese-movies-19982008)
+
+HTTrack Website Copier/3.48-21 mirror complete in 5 hours 20 minutes 8 seconds : 15912 links scanned, 15796 files written (1482450631 bytes overall) [427600041 bytes received at 22261 bytes/sec], 1432118023 bytes transferred using HTTP compression in 15530 files, ratio 25%, 15.4 requests per connection
+(105 errors, 100 warnings, 0 messages)

@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.littlefolkspuzzle.com	TRUE	/	FALSE	1999999999	fornax_anonymousId	6dba6eef-ad0d-4e0e-826f-0e7c0dd0c789
+.littlefolkspuzzle.com	TRUE	/	FALSE	1999999999	SHOP_SESSION_TOKEN	ejiav3jd7vcf0ho7217m79bbe0
+dropboxusercontent.com	TRUE	/	FALSE	1999999999	uc_session	X0iJapoTVCUes2l2PQti71LREGVJrQZlVu5CaDqZVBbNejeIB39XeHaeqyjY9eT3
+.frikafrax.com	TRUE	/	FALSE	1999999999	__cfduid	de0d12249deced0c1d5c9549543e1089c1436404981
+

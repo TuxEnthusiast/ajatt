@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:series="http://organizeseries.com/"
+	
+	>
+<channel>
+	<title>Comments for AJATT | All Japanese All The Time</title>
+	<atom:link href="http://www.alljapaneseallthetime.com/blog/comments/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.alljapaneseallthetime.com/blog</link>
+	<description>You don&#039;t know a language, you live it. You don&#039;t learn a language, you get used to it.</description>
+	<lastBuildDate>Tue, 16 Jun 2015 14:41:58 -0700</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.6</generator>
+	<item>
+		<title>Comment on Why You Should Keep Listening Even If You Don&#8217;t Understand by Laurence Bourke</title>
+		<link>http://www.alljapaneseallthetime.com/blog/why-you-should-keep-listening-even-if-you-dont-understand#comment-1000526392</link>
+		<dc:creator><![CDATA[Laurence Bourke]]></dc:creator>
+		<pubDate>Tue, 16 Jun 2015 14:41:58 +0000</pubDate>
+		<guid isPermaLink="false">http://www.alljapaneseallthetime.com/blog/?p=370#comment-1000526392</guid>
+		<description><![CDATA[Khatz this is a success story based on the above &quot;vodoo&quot;. Ive only been studying japanese hardcore for a year or more,  maybe a few more months, and the progress I&#039;ve made continues to shock me and give me extreme pleasure, deeply learning a language has changed my life for the better in so many ways. Im not at the point of fluency now but i can express endless ideas and can understand maybe 60 percent of what i hear in only a year, and many times more then that, it just depends on the material. The point is I noticed the greatest gains when i put this listening into practice after only  few months i realied soemthing was happening, The language was no longer a jumble of sounds, i didnt know what they were saying but i knew when words all began stopped and sentence structure was being burned into my long term memory as well as words since i was hearing them over and over.
+
+Now, when this was paired with 2 hours reading a day(some days 30 some days 1 hour, ) i realized the staggering power of this method, the ajjat way(I know you don&#039;t likes it to be set in stone).
+I am now enjoying Japanese video games, drama(that&#039;s a lot harder at times but ultimately such fun)..and even translating Japanese experiences of people who have had experiences im interested in and then comparing them to western experiences!!
+
+only 6 months ago i could get through a 1 a4 page fairy tale in around 2 hours of immense struggle, now im breezing through them and reading blog posts almost fluently, the only thing that stops me in my tracks in words i haven&#039;t heard. Its extremely rare now i come across a grammar structure or sentences structure that gets me, meanings its usually very rare..
+
+And again, i have to agree and somewhat vindicate you when you talk about (and this is genius) not talking first and how it will simply come trough exposure, it really really does, im online now talking on skeyp to Japanese people and the might have to correct me twice in a  conversation  and they are always shocked at my vocab etc etc...i never EVER practiced talking it just happened, wow thanks khatz let me just tell you all, it can and does work! read, listening, have fun, do your sentences, and enjoy your life in Japanese, but most of all, take it slow and be consistent, the payoff(and im no where near where i want, but now i can clearly see it) is beyond amazing, 
+
+P.S not being employed for a year has obviously helped haha, ive been able to truly dedicate my days to Japanese,  I have even been recently asked by a radio haost to give him my translations of Japaneses near death experiences so that he can compare them to english!]]></description>
+		<content:encoded><![CDATA[<p>Khatz this is a success story based on the above &#8220;vodoo&#8221;. Ive only been studying japanese hardcore for a year or more,  maybe a few more months, and the progress I&#8217;ve made continues to shock me and give me extreme pleasure, deeply learning a language has changed my life for the better in so many ways. Im not at the point of fluency now but i can express endless ideas and can understand maybe 60 percent of what i hear in only a year, and many times more then that, it just depends on the material. The point is I noticed the greatest gains when i put this listening into practice after only  few months i realied soemthing was happening, The language was no longer a jumble of sounds, i didnt know what they were saying but i knew when words all began stopped and sentence structure was being burned into my long term memory as well as words since i was hearing them over and over.</p>
+<p>Now, when this was paired with 2 hours reading a day(some days 30 some days 1 hour, ) i realized the staggering power of this method, the ajjat way(I know you don&#8217;t likes it to be set in stone).<br />
+I am now enjoying Japanese video games, drama(that&#8217;s a lot harder at times but ultimately such fun)..and even translating Japanese experiences of people who have had experiences im interested in and then comparing them to western experiences!!</p>
+<p>only 6 months ago i could get through a 1 a4 page fairy tale in around 2 hours of immense struggle, now im breezing through them and reading blog posts almost fluently, the only thing that stops me in my tracks in words i haven&#8217;t heard. Its extremely rare now i come across a grammar structure or sentences structure that gets me, meanings its usually very rare..</p>
+<p>And again, i have to agree and somewhat vindicate you when you talk about (and this is genius) not talking first and how it will simply come trough exposure, it really really does, im online now talking on skeyp to Japanese people and the might have to correct me twice in a  conversation  and they are always shocked at my vocab etc etc&#8230;i never EVER practiced talking it just happened, wow thanks khatz let me just tell you all, it can and does work! read, listening, have fun, do your sentences, and enjoy your life in Japanese, but most of all, take it slow and be consistent, the payoff(and im no where near where i want, but now i can clearly see it) is beyond amazing, </p>
+<p>P.S not being employed for a year has obviously helped haha, ive been able to truly dedicate my days to Japanese,  I have even been recently asked by a radio haost to give him my translations of Japaneses near death experiences so that he can compare them to english!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Surusu Update: NSFW URL Shuffler by Daniel</title>
+		<link>http://www.alljapaneseallthetime.com/blog/surusu-update-nsfw-url-shuffler#comment-1000525954</link>
+		<dc:creator><![CDATA[Daniel]]></dc:creator>
+		<pubDate>Tue, 09 Jun 2015 20:22:22 +0000</pubDate>
+		<guid isPermaLink="false">http://www.alljapaneseallthetime.com/blog/?p=4869#comment-1000525954</guid>
+		<description><![CDATA[I see the option to add multiple NSFW URLs, but not the option to add just one. Basically I just want a way of creating two separate and distinct shuffler lists (without switching decks), so maybe there is another way to do this.]]></description>
+		<content:encoded><![CDATA[<p>I see the option to add multiple NSFW URLs, but not the option to add just one. Basically I just want a way of creating two separate and distinct shuffler lists (without switching decks), so maybe there is another way to do this.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Why Are You Acting Like A Deadbeat Dad Language Learner? by Fearlezzdreamer</title>
+		<link>http://www.alljapaneseallthetime.com/blog/why-are-you-acting-like-a-deadbeat-dad-language-learner#comment-1000522210</link>
+		<dc:creator><![CDATA[Fearlezzdreamer]]></dc:creator>
+		<pubDate>Fri, 17 Apr 2015 00:49:54 +0000</pubDate>
+		<guid isPermaLink="false">http://www.alljapaneseallthetime.com/blog/?p=30370#comment-1000522210</guid>
+		<description><![CDATA[Khatz at least update your twitter or something to let us know that you&#039;re still alive ! D:]]></description>
+		<content:encoded><![CDATA[<p>Khatz at least update your twitter or something to let us know that you&#8217;re still alive ! D:</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Why Are You Acting Like A Deadbeat Dad Language Learner? by Fearlezzdreamer</title>
+		<link>http://www.alljapaneseallthetime.com/blog/why-are-you-acting-like-a-deadbeat-dad-language-learner#comment-1000518373</link>
+		<dc:creator><![CDATA[Fearlezzdreamer]]></dc:creator>
+		<pubDate>Fri, 06 Mar 2015 21:16:54 +0000</pubDate>
+		<guid isPermaLink="false">http://www.alljapaneseallthetime.com/blog/?p=30370#comment-1000518373</guid>
+		<description><![CDATA[Khatz where you at tho?]]></description>
+		<content:encoded><![CDATA[<p>Khatz where you at tho?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Why Are You Acting Like A Deadbeat Dad Language Learner? by Anon1</title>
+		<link>http://www.alljapaneseallthetime.com/blog/why-are-you-acting-like-a-deadbeat-dad-language-learner#comment-1000517129</link>
+		<dc:creator><![CDATA[Anon1]]></dc:creator>
+		<pubDate>Wed, 18 Feb 2015 15:14:34 +0000</pubDate>
+		<guid isPermaLink="false">http://www.alljapaneseallthetime.com/blog/?p=30370#comment-1000517129</guid>
+		<description><![CDATA[Khazumoto where are youuuuuu???]]></description>
+		<content:encoded><![CDATA[<p>Khazumoto where are youuuuuu???</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on 10,000 Sentences is Dead. Let the MCD Revolution Begin! by Gabriel</title>
+		<link>http://www.alljapaneseallthetime.com/blog/10000-sentences-is-dead-long-live-mcds#comment-1000516741</link>
+		<dc:creator><![CDATA[Gabriel]]></dc:creator>
+		<pubDate>Fri, 13 Feb 2015 15:21:49 +0000</pubDate>
+		<guid isPermaLink="false">http://www.alljapaneseallthetime.com/blog/?p=6605#comment-1000516741</guid>
+		<description><![CDATA[Anybody with any clue how many MCD cards is a good number? I have about 21000 right now which seems possibly excessive. I delete all the time but I&#039;m still in the virgin cards and keep finding more passages to add haha. Anybody?
+
+Thanks!]]></description>
+		<content:encoded><![CDATA[<p>Anybody with any clue how many MCD cards is a good number? I have about 21000 right now which seems possibly excessive. I delete all the time but I&#8217;m still in the virgin cards and keep finding more passages to add haha. Anybody?</p>
+<p>Thanks!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Why Are You Acting Like A Deadbeat Dad Language Learner? by NDN</title>
+		<link>http://www.alljapaneseallthetime.com/blog/why-are-you-acting-like-a-deadbeat-dad-language-learner#comment-1000515748</link>
+		<dc:creator><![CDATA[NDN]]></dc:creator>
+		<pubDate>Sat, 31 Jan 2015 20:51:43 +0000</pubDate>
+		<guid isPermaLink="false">http://www.alljapaneseallthetime.com/blog/?p=30370#comment-1000515748</guid>
+		<description><![CDATA[俺が悪かったなー。最初に「ツイッターもブログも更新しなくていい」って書くべきだった。
+これでどうだ？まだ関係ねえのか？ｗｗｗｗｗｗｗｗ
+とにかく、別に喧嘩売ってるわけじゃねーよ。ただ、これ以上記事にするほどのネタがあるとは思えねー。
+ツイッターの方は、まあ、あいつの事だ。更新しないほどだらしないかもしんねー。　（笑）
+あいつのＦａｃｅｂｏｏｋアカウントもそうだ。
+「ご苦労」についてはブログを作るだけで、もうご苦労なんだよ。それ以外は、だらしなくてもいいんだ！（笑）
+むしろ、最近のネットでこんなブログが5年以上も存在するなんて、不思議な程だぜ。まあ、喜ばしい事でもあるがな。（笑）
+あいつがネットから消えようとしても（？）、文句はねーよ。あいつはもう十分やったと思う。
+元々、あいつは有名人になるつもりはなかったと思う。（違うかもなー！　笑）
+とにかく、俺が言いたかったのはこうだ、「休んでいいんだぞ！」ってな。　:-D
+もちろん、勝元様が戻ってくれば、このサイトはもっと楽しくなるけどな。　（笑）
+以上。]]></description>
+		<content:encoded><![CDATA[<p>俺が悪かったなー。最初に「ツイッターもブログも更新しなくていい」って書くべきだった。<br />
+これでどうだ？まだ関係ねえのか？ｗｗｗｗｗｗｗｗ<br />
+とにかく、別に喧嘩売ってるわけじゃねーよ。ただ、これ以上記事にするほどのネタがあるとは思えねー。<br />
+ツイッターの方は、まあ、あいつの事だ。更新しないほどだらしないかもしんねー。　（笑）<br />
+あいつのＦａｃｅｂｏｏｋアカウントもそうだ。<br />
+「ご苦労」についてはブログを作るだけで、もうご苦労なんだよ。それ以外は、だらしなくてもいいんだ！（笑）<br />
+むしろ、最近のネットでこんなブログが5年以上も存在するなんて、不思議な程だぜ。まあ、喜ばしい事でもあるがな。（笑）<br />
+あいつがネットから消えようとしても（？）、文句はねーよ。あいつはもう十分やったと思う。<br />
+元々、あいつは有名人になるつもりはなかったと思う。（違うかもなー！　笑）<br />
+とにかく、俺が言いたかったのはこうだ、「休んでいいんだぞ！」ってな。　:-D<br />
+もちろん、勝元様が戻ってくれば、このサイトはもっと楽しくなるけどな。　（笑）<br />
+以上。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Why Are You Acting Like A Deadbeat Dad Language Learner? by Fearlezzdreamer</title>
+		<link>http://www.alljapaneseallthetime.com/blog/why-are-you-acting-like-a-deadbeat-dad-language-learner#comment-1000515743</link>
+		<dc:creator><![CDATA[Fearlezzdreamer]]></dc:creator>
+		<pubDate>Sat, 31 Jan 2015 19:11:45 +0000</pubDate>
+		<guid isPermaLink="false">http://www.alljapaneseallthetime.com/blog/?p=30370#comment-1000515743</guid>
+		<description><![CDATA[お前の話俺と関係ねえだろうがｗｗｗｗ
+「勝元様のご苦労に深く感謝します」
+あいつのどこがご苦労だ！？このサイト見てみろや、ぜんぜんだらしないじゃねえかよ。（笑）
+まあそれでこそあいつだけどね。]]></description>
+		<content:encoded><![CDATA[<p>お前の話俺と関係ねえだろうがｗｗｗｗ<br />
+「勝元様のご苦労に深く感謝します」<br />
+あいつのどこがご苦労だ！？このサイト見てみろや、ぜんぜんだらしないじゃねえかよ。（笑）<br />
+まあそれでこそあいつだけどね。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Why Are You Acting Like A Deadbeat Dad Language Learner? by NDN</title>
+		<link>http://www.alljapaneseallthetime.com/blog/why-are-you-acting-like-a-deadbeat-dad-language-learner#comment-1000515738</link>
+		<dc:creator><![CDATA[NDN]]></dc:creator>
+		<pubDate>Sat, 31 Jan 2015 17:29:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.alljapaneseallthetime.com/blog/?p=30370#comment-1000515738</guid>
+		<description><![CDATA[それでも、モザンビーク人である僕に、「日本語を覚える事ができる」という希望を与えてくれたサイトです。
+このサイトがどれだけ僕の人生を変えたことか。ちなみに、僕の日本語はまだ下手ですので、短く書かせていただきます。　（笑）
+
+僕は、きっとこのサイトを一生忘れないでしょう。　勝元様のご苦労に深く感謝します。
+冗談を込めて、「でかしたぞ、このヤロー！このサイトはすげーぞ！」と言わせて頂きます。　:D]]></description>
+		<content:encoded><![CDATA[<p>それでも、モザンビーク人である僕に、「日本語を覚える事ができる」という希望を与えてくれたサイトです。<br />
+このサイトがどれだけ僕の人生を変えたことか。ちなみに、僕の日本語はまだ下手ですので、短く書かせていただきます。　（笑）</p>
+<p>僕は、きっとこのサイトを一生忘れないでしょう。　勝元様のご苦労に深く感謝します。<br />
+冗談を込めて、「でかしたぞ、このヤロー！このサイトはすげーぞ！」と言わせて頂きます。　:D</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Why Are You Acting Like A Deadbeat Dad Language Learner? by Fearlezzdreamer</title>
+		<link>http://www.alljapaneseallthetime.com/blog/why-are-you-acting-like-a-deadbeat-dad-language-learner#comment-1000515549</link>
+		<dc:creator><![CDATA[Fearlezzdreamer]]></dc:creator>
+		<pubDate>Thu, 29 Jan 2015 10:49:16 +0000</pubDate>
+		<guid isPermaLink="false">http://www.alljapaneseallthetime.com/blog/?p=30370#comment-1000515549</guid>
+		<description><![CDATA[He could atleast update his twitter ! D:]]></description>
+		<content:encoded><![CDATA[<p>He could atleast update his twitter ! D:</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Why Are You Acting Like A Deadbeat Dad Language Learner? by 魔法少女☆かなたんが勝負をしかけてきた！</title>
+		<link>http://www.alljapaneseallthetime.com/blog/why-are-you-acting-like-a-deadbeat-dad-language-learner#comment-1000515515</link>
+		<dc:creator><![CDATA[魔法少女☆かなたんが勝負をしかけてきた！]]></dc:creator>
+		<pubDate>Thu, 29 Jan 2015 04:54:14 +0000</pubDate>
+		<guid isPermaLink="false">http://www.alljapaneseallthetime.com/blog/?p=30370#comment-1000515515</guid>
+		<description><![CDATA[RIP AJATT (????-2015)]]></description>
+		<content:encoded><![CDATA[<p>RIP AJATT (????-2015)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Showing Up by Romuś</title>
+		<link>http://www.alljapaneseallthetime.com/blog/showing-up#comment-1000515050</link>
+		<dc:creator><![CDATA[Romuś]]></dc:creator>
+		<pubDate>Sun, 25 Jan 2015 23:41:28 +0000</pubDate>
+		<guid isPermaLink="false">http://www.alljapaneseallthetime.com/blog/showing-up-3#comment-1000515050</guid>
+		<description><![CDATA[When I don&#039;t have red I use blue. - Pablo Picasso
+http://bit.ly/1xVt5uW]]></description>
+		<content:encoded><![CDATA[<p>When I don&#8217;t have red I use blue. &#8211; Pablo Picasso<br />
+<a href="http://bit.ly/1xVt5uW" rel="nofollow">bit.ly/1xVt5uW</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on What Can the French Revolution and Austrian Economics Teach You About Learning Japanese? by Russ</title>
+		<link>http://www.alljapaneseallthetime.com/blog/what-can-the-french-revolution-and-austrian-economics-teach-you-about-learning-japanese#comment-1000512413</link>
+		<dc:creator><![CDATA[Russ]]></dc:creator>
+		<pubDate>Mon, 05 Jan 2015 13:49:24 +0000</pubDate>
+		<guid isPermaLink="false">http://www.alljapaneseallthetime.com/blog/?p=30178#comment-1000512413</guid>
+		<description><![CDATA[Love Sowell (in a platonic way). I will read that too. Also, George Gilder&#039;s Knowledge &amp; Power, in which he maintains that Capitalism is an INFORMATION system not an INCENTIVE system. The language application for that would be, I suppose, that free markets are messy, with lots of changes, adjustments, failed experiments and &quot;unapproved&quot; innovations that deviate from experts&#039; &amp; leaders&#039; prescriptions.  It&#039;s bottom-up, not top-down.
+
+That&#039;s why I love Khatz&#039; approach, by the way. He has enough influence and power to seize the language-learning throne, declare himself king, and tell us exactly what to do, but he keeps refusing it, like George Washington, or (Shakespeare&#039;s) Julius Caesar.]]></description>
+		<content:encoded><![CDATA[<p>Love Sowell (in a platonic way). I will read that too. Also, George Gilder&#8217;s Knowledge &amp; Power, in which he maintains that Capitalism is an INFORMATION system not an INCENTIVE system. The language application for that would be, I suppose, that free markets are messy, with lots of changes, adjustments, failed experiments and &#8220;unapproved&#8221; innovations that deviate from experts&#8217; &amp; leaders&#8217; prescriptions.  It&#8217;s bottom-up, not top-down.</p>
+<p>That&#8217;s why I love Khatz&#8217; approach, by the way. He has enough influence and power to seize the language-learning throne, declare himself king, and tell us exactly what to do, but he keeps refusing it, like George Washington, or (Shakespeare&#8217;s) Julius Caesar.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Too Much Technique, Too Little Volume: それ以前の問題 by Laurence Bourke</title>
+		<link>http://www.alljapaneseallthetime.com/blog/too-much-technique-too-little-volume-%e3%81%9d%e3%82%8c%e4%bb%a5%e5%89%8d%e3%81%ae%e5%95%8f%e9%a1%8c#comment-1000508198</link>
+		<dc:creator><![CDATA[Laurence Bourke]]></dc:creator>
+		<pubDate>Wed, 26 Nov 2014 16:45:18 +0000</pubDate>
+		<guid isPermaLink="false">http://www.alljapaneseallthetime.com/blog/?p=6405#comment-1000508198</guid>
+		<description><![CDATA[Every time i read your articles something just clicks, i just know somehow this is the way to go, its almost intuition, but its also common sense and how babys learn, i a can personally vouch that in that lsat 6 months i have gone form struggling for 2 hours through short fairy tales to reading and understanding in large part famitus articles and others such things, im consistently shocked at how quickly im improving and alot of that is thanks to this website , it IS possible and now its actually becoming fun, im choosing the fun stuff, wathign takeshi kitano nature documentaries, transcribing interviews with my favorite artist and enjoying Japanese drama, its almost unbelievable, wow thanks khatz]]></description>
+		<content:encoded><![CDATA[<p>Every time i read your articles something just clicks, i just know somehow this is the way to go, its almost intuition, but its also common sense and how babys learn, i a can personally vouch that in that lsat 6 months i have gone form struggling for 2 hours through short fairy tales to reading and understanding in large part famitus articles and others such things, im consistently shocked at how quickly im improving and alot of that is thanks to this website , it IS possible and now its actually becoming fun, im choosing the fun stuff, wathign takeshi kitano nature documentaries, transcribing interviews with my favorite artist and enjoying Japanese drama, its almost unbelievable, wow thanks khatz</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Too Much Technique, Too Little Volume: それ以前の問題 by Laurence Bourke</title>
+		<link>http://www.alljapaneseallthetime.com/blog/too-much-technique-too-little-volume-%e3%81%9d%e3%82%8c%e4%bb%a5%e5%89%8d%e3%81%ae%e5%95%8f%e9%a1%8c#comment-1000508199</link>
+		<dc:creator><![CDATA[Laurence Bourke]]></dc:creator>
+		<pubDate>Wed, 26 Nov 2014 16:45:16 +0000</pubDate>
+		<guid isPermaLink="false">http://www.alljapaneseallthetime.com/blog/?p=6405#comment-1000508199</guid>
+		<description><![CDATA[Every time i read your articles something just clicks, i just know somehow this is the way to go, its almost intuition, but its also common sense and how babys learn, i a can personally vouch that in that lsat 6 months i have gone form struggling for 2 hours through short fairy tales to reading and understanding in large part famitus articles and others such things, im consistently shocked at how quickly im improving and alot of that is thanks to this website , it IS possible and now its actually becoming fun, im choosing the fun stuff, wathign takeshi kitano nature documentaries, transcribing interviews with my favorite artist and enjoying Japanese drama, its almost unbelievable, wow thanks khatz]]></description>
+		<content:encoded><![CDATA[<p>Every time i read your articles something just clicks, i just know somehow this is the way to go, its almost intuition, but its also common sense and how babys learn, i a can personally vouch that in that lsat 6 months i have gone form struggling for 2 hours through short fairy tales to reading and understanding in large part famitus articles and others such things, im consistently shocked at how quickly im improving and alot of that is thanks to this website , it IS possible and now its actually becoming fun, im choosing the fun stuff, wathign takeshi kitano nature documentaries, transcribing interviews with my favorite artist and enjoying Japanese drama, its almost unbelievable, wow thanks khatz</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Secrets to Smoother SRSing, Part 6: Maintain Only the Baseline/SRS Holidays by Back from an SRS break • Animefangirl! &#124; Animefangirl!</title>
+		<link>http://www.alljapaneseallthetime.com/blog/secrets-to-smoother-srsing-part-6-maintain-only-the-baselinesrs-holidays#comment-1000507931</link>
+		<dc:creator><![CDATA[Back from an SRS break • Animefangirl! &#124; Animefangirl!]]></dc:creator>
+		<pubDate>Fri, 07 Nov 2014 12:50:55 +0000</pubDate>
+		<guid isPermaLink="false">http://www.alljapaneseallthetime.com/blog/?p=343#comment-1000507931</guid>
+		<description><![CDATA[[&#8230;] before Khatz at AJATT put up this post, I was already on an extended break from my SRS. Meaning I was still doing my reps every morning [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] before Khatz at AJATT put up this post, I was already on an extended break from my SRS. Meaning I was still doing my reps every morning [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on The Lazy Kanji Kendo Mod by Silwing</title>
+		<link>http://www.alljapaneseallthetime.com/blog/the-lazy-kanji-kendo-mod#comment-1000507906</link>
+		<dc:creator><![CDATA[Silwing]]></dc:creator>
+		<pubDate>Wed, 05 Nov 2014 09:33:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.alljapaneseallthetime.com/blog/?p=3611#comment-1000507906</guid>
+		<description><![CDATA[You can use the Anki &quot;Hint&quot; feature. I personally find that a lot smarter than making the text color white. Just go to the &quot;Manage note types&quot; in Anki, chose the note type of your lazy kanji deck and click the &quot;Cards&quot; button. In the text field for the front side you&#039;ll see something like {{Kanji}} change that to {{hint:Kanji}} and voi la you get a fancy clickable link saying &quot;Show Kanji&quot; on your front side of the card. No more distracting peripheral vision giving you the outline of the kanji even though you don&#039;t want to see it. As a bonus you can then still see the kanji before getting the keyword answer in case you can&#039;t reproduce it from memory.]]></description>
+		<content:encoded><![CDATA[<p>You can use the Anki &#8220;Hint&#8221; feature. I personally find that a lot smarter than making the text color white. Just go to the &#8220;Manage note types&#8221; in Anki, chose the note type of your lazy kanji deck and click the &#8220;Cards&#8221; button. In the text field for the front side you&#8217;ll see something like {{Kanji}} change that to {{hint:Kanji}} and voi la you get a fancy clickable link saying &#8220;Show Kanji&#8221; on your front side of the card. No more distracting peripheral vision giving you the outline of the kanji even though you don&#8217;t want to see it. As a bonus you can then still see the kanji before getting the keyword answer in case you can&#8217;t reproduce it from memory.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Why Don&#8217;t You Learn Like You Eat? by JD</title>
+		<link>http://www.alljapaneseallthetime.com/blog/why-dont-you-learn-like-you-eat#comment-1000507903</link>
+		<dc:creator><![CDATA[JD]]></dc:creator>
+		<pubDate>Wed, 05 Nov 2014 02:24:09 +0000</pubDate>
+		<guid isPermaLink="false">http://www.alljapaneseallthetime.com/blog/?p=28819#comment-1000507903</guid>
+		<description><![CDATA[For some reason, the quote &quot;If you&#039;re in a hurry, take the scenic route.&quot; stuck with me for a long time. Mostly because it didn&#039;t feel right. Of course, I tried to compare it to two students on their way to school saying, &quot;Since we&#039;re gonna be late anyways, let&#039;s just take our time.&quot; But that&#039;s not quite the same, because now they aren&#039;t in a hurry.
+
+Finally, I decided to translate the derned Japanese to my second language, Korean. And now it makes so much more sense.
+&quot;If you&#039;re in a hurry, turn around.&quot; So rather than taking the scenic route and stressing on the way while trying to go fast, you just stop. You stop, turn around, and choose to do something else. Maybe it takes you on towards the place you wanted to go. Maybe it takes you to another place, but the thing is, you&#039;re happy.
+
+Thanks Cats!]]></description>
+		<content:encoded><![CDATA[<p>For some reason, the quote &#8220;If you&#8217;re in a hurry, take the scenic route.&#8221; stuck with me for a long time. Mostly because it didn&#8217;t feel right. Of course, I tried to compare it to two students on their way to school saying, &#8220;Since we&#8217;re gonna be late anyways, let&#8217;s just take our time.&#8221; But that&#8217;s not quite the same, because now they aren&#8217;t in a hurry.</p>
+<p>Finally, I decided to translate the derned Japanese to my second language, Korean. And now it makes so much more sense.<br />
+&#8220;If you&#8217;re in a hurry, turn around.&#8221; So rather than taking the scenic route and stressing on the way while trying to go fast, you just stop. You stop, turn around, and choose to do something else. Maybe it takes you on towards the place you wanted to go. Maybe it takes you to another place, but the thing is, you&#8217;re happy.</p>
+<p>Thanks Cats!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on What If RTK Isn&#8217;t Working For Me? Early Cut-Off Kanji by Chasmandingo</title>
+		<link>http://www.alljapaneseallthetime.com/blog/what-if-heisig-isnt-working-for-me-early-cut-off-kanji#comment-1000507902</link>
+		<dc:creator><![CDATA[Chasmandingo]]></dc:creator>
+		<pubDate>Tue, 04 Nov 2014 22:49:20 +0000</pubDate>
+		<guid isPermaLink="false">http://www.alljapaneseallthetime.com/blog/?p=28287#comment-1000507902</guid>
+		<description><![CDATA[I am almost there myself. I am at 1800 and am losing the will to Heisig. I am fairly certain that I am in need of starting on MCD&#039;s and coming back to the last 200 a few at a time as I learn sentences. I feel that it will jump start my interest and love of Japanese once again. Plus I can continue to review my kanji and just go with the flow!]]></description>
+		<content:encoded><![CDATA[<p>I am almost there myself. I am at 1800 and am losing the will to Heisig. I am fairly certain that I am in need of starting on MCD&#8217;s and coming back to the last 200 a few at a time as I learn sentences. I feel that it will jump start my interest and love of Japanese once again. Plus I can continue to review my kanji and just go with the flow!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on What is an SRS? by A word about SRS • Animefangirl! &#124; Animefangirl!</title>
+		<link>http://www.alljapaneseallthetime.com/blog/what-is-an-srs#comment-1000507890</link>
+		<dc:creator><![CDATA[A word about SRS • Animefangirl! &#124; Animefangirl!]]></dc:creator>
+		<pubDate>Tue, 04 Nov 2014 13:21:09 +0000</pubDate>
+		<guid isPermaLink="false">http://www.alljapaneseallthetime.com/blog/what-is-an-srs#comment-1000507890</guid>
+		<description><![CDATA[[&#8230;] SRS stands for Spaced Repetition System. I know what it is and why it&#8217;s useful for learning languages, so I don&#8217;t see the need to go on about it. This blog is all about me, remember? But for anyone who wants to know more, I&#8217;ll link the AllJapaneseAlltheTime (AJATT) website post on the subject: What is an SRS? [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] SRS stands for Spaced Repetition System. I know what it is and why it&#8217;s useful for learning languages, so I don&#8217;t see the need to go on about it. This blog is all about me, remember? But for anyone who wants to know more, I&#8217;ll link the AllJapaneseAlltheTime (AJATT) website post on the subject: What is an SRS? [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.685 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-07-08 14:37:32 -->
+
+<!-- Compression = gzip -->
